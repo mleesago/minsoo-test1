@@ -1,0 +1,3 @@
+[submodule "minsoo-test2"]
+	path = minsoo-test2
+	url = https://github.com/mleesago/minsoo-test2.git
