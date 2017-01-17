@@ -1,3 +1,3 @@
 #minsoo-test1
-branch1__
+branch1
 minsoo-test2 is now added as a submodule
